@@ -1,4 +1,4 @@
 # hello-world
-first repo /n
-I like Sherlock Holmes a lot! /n
-I also like Dotor Watson. 
+first repo
+I like Sherlock Holmes a lot!
+I also like Doctor Watson.
